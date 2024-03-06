@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+.code::-webkit-outer-spin-button,
+.code::-webkit-inner-spin-button{
+      -webkit-appearance: none;
+}
